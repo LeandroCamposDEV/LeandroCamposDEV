@@ -10,11 +10,17 @@ Sou um desenvolvedor FrontEnd apaixonado por criar interfaces que proporcionam u
 
 <div style="display: inline_block"><br>
 
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="margin-right: 10px;">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="margin-right: 10px;">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="margin-right: 10px;">
-  <img align="center" width="30" height="28" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-color-tal-revivo.png" alt="external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-color-tal-revivo" style="margin-right: 10px;">
-  <img align="center" width="40" height="40" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap">
+<img align="center" width="80" height="40" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+ <img align="center" height="40" width="80" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+<img align="center" height="40" width="80" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+<img align="center" height="40" width="100" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<img align="center" width="100" height="40" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img align="center" width="80" height="40" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
+<img align="center" width="80" height="40" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
+<img align="center" width="100" height="40" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
+    
+
+  
     
 </div>
 
