@@ -1,4 +1,4 @@
-# Olá, sou Leandro Campos! <img width="30" height="30" src="https://img.icons8.com/officexs/30/000000/source-code.png" alt="source-code"/>
+# Olá, sou Leandro Campos <img width="30" height="30" src="https://img.icons8.com/officexs/30/000000/source-code.png" alt="source-code"/>
 
 Sou um desenvolvedor FrontEnd apaixonado por criar interfaces que proporcionam uma excelente experiência ao usuário. Atualmente, estou cursando Engenharia de Software e estou sempre em busca de aprimorar minhas habilidades e conhecimentos.
 
